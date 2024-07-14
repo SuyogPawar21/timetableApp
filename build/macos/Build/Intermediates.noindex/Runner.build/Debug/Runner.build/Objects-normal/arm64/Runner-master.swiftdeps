@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "1afe4e24e3d86f370f1b327911a05edd32ac352ee60f7e567df6d220e959b4ba"
+build_start_time: [1684908473, 731413000]
+build_end_time: [1684908475, 200183000]
+inputs:
+  "/Users/suyogpawar/Documents/Suyog/FlutterProjects/timetable_manager-master/macos/Flutter/GeneratedPluginRegistrant.swift": [1684908469, 897975859]
+  "/Users/suyogpawar/Documents/Suyog/FlutterProjects/timetable_manager-master/macos/Runner/AppDelegate.swift": [1684908162, 0]
+  "/Users/suyogpawar/Documents/Suyog/FlutterProjects/timetable_manager-master/macos/Runner/MainFlutterWindow.swift": [1684908162, 0]
